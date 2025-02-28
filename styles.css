@@ -1,6 +1,7 @@
 /* Styling for the page */
 body {
   font-family: sans-serif;
+  background-image: linear-gradient(to right,white,rgb(185, 179, 179),white);
 }
 
 nav {
